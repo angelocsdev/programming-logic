@@ -41,7 +41,7 @@ Algoritmos para ligar e desligar um poste, a calculadora e o bloco de notas.
 
 É essencial afirmar que os softwares só existem para resolver problemas, sejam eles grandes ou pequenos. Os programas são criados pensando na melhoria de algum processo ou mesmo qualidade de vida de alguém.
 
-*Pensar em um programa que pode solucionar um problema antes de partir para a próxima aula.*
+*Ps: Pensar em um programa que pode solucionar um problema antes de partir para a próxima aula.*
 
 **Resumo:** Os softwares são criados para resolver problemas do dia-a-dia e também para facilitar e automatizar processos, como é o caso da calculadora. Qualquer processo feito em um dispositivo pode ser facilitado e se tornar automático usando programção e todo programa resolve um problema.
 
