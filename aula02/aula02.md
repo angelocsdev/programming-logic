@@ -6,12 +6,12 @@
 
 ##### Tópicos:
 
-Ciclo de desenvolvimento de software
-1.1 Idealização
-1.2 Especificação de Requisitos
-1.3 Validação de Solução
-1.4 Desenvolvimento e Testes
-1.5 Implantação e Entrega
+1 - Ciclo de desenvolvimento de software
+    1.1 - Idealização
+    1.2 - Especificação de Requisitos
+    1.3 - Validação de Solução
+    1.4 - Desenvolvimento e Testes
+    1.5 - Implantação e Entrega
 
 ##### Anotações
 
