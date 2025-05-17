@@ -131,5 +131,5 @@ input salario_mensal
 cinquenta_porcento = salario_mensal * 0.5
 trinta_porcento = salario_mensal * 0.3
 vinte_porcento = salario_mensal * 0.2
-resultado = cinquenta_porcento é usado para necessidades básicas (aluguel, mercado, farmácia, etc), trinta_porcento é usado para desejos e lazer, vinte_porcento é usado para poupança e quitação de dívidas.
+resultado = cinquenta_porcento + 'é usado para necessidades básicas (aluguel, mercado, farmácia, etc),' + trinta_porcento + 'é usado para desejos e lazer, ' + vinte_porcento + 'é usado para poupança e quitação de dívidas.'
 print resultado
