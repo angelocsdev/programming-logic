@@ -104,5 +104,32 @@ elif chute == valor_aleatorio:
 else:
     print('Chute um número de 1 a 10')
 
+**Ps:** usar o método 5Q's no meu projeto pessoal antes de partir para a próxima aula.
 
 **Resumo:** Algoritmos são uma série de instruções a serem seguidas para resolver um problema e são criados quando precisamos montar passos para solucionar um problema. Para analisar o problema pode ser usado o método 5Q's que são: 1 - dados de entrada; 2 - O que fazer com os dados; 3 - restrições do problema; 4 - resultado esperado; 5 - sequência de passos.
+
+**Projeto Pessoal**
+
+**Método 5Q's para montar um algoritmo**
+
+*Escreva um programa usando o método 50-30-20 de finanças pessoais que calcula com base no salário fornecido.*
+
+**Analise criticamente o problema e descubra:**
+*(Tente explicar este problema para você mesmo em voz alta e peça mais informações/investigue mais até você compreender completamente o problema.)*
+
+**1. Quais são os dados de entrada necessários?**
+- salário mensal
+**2. O que devo fazer com estes dados?**
+- pegar o salário mensal e multiplicar por 0.5 (50%), 0.3 (30%) e 0.2 (20%). E mostrar os resultados nessa sequência. O app também deve informar para que é cada porcentagem.
+**3. Quais são as restrições deste problema?**
+- salário precisa ser informado
+**4. Qual é o resultado esperado?**
+- mostrar na tela o resultado dos cálculos e dividir o salário no método 50-30-20.
+**5. Qual é a sequência de passos a ser feita para chegar ao resultado esperado?**
+
+input salario_mensal
+cinquenta_porcento = salario_mensal * 0.5
+trinta_porcento = salario_mensal * 0.3
+vinte_porcento = salario_mensal * 0.2
+resultado = cinquenta_porcento é usado para necessidades básicas (aluguel, mercado, farmácia, etc), trinta_porcento é usado para desejos e lazer, vinte_porcento é usado para poupança e quitação de dívidas.
+print resultado
